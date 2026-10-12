@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-05T15:07:48.576167Z",
-  "posts_analyzed": 19,
+  "generated_at": "2026-10-12T15:11:14.597945Z",
+  "posts_analyzed": 41,
   "top_performers": [
     {
       "topic": "how to identify and address caregiver burden as part of OT intervention",
       "hook": "OT students: caregiver burden is part of your client's occupational picture -- here's how to spot and address it"
     },
     {
-      "topic": "how to identify and document a client's occupational profile in OT",
-      "hook": "OT students: here's how to actually build an occupational profile (and why it matters beyond the eval)"
+      "topic": "how to use backward chaining vs forward chaining to teach ADL tasks in OT",
+      "hook": "OT students: forward chaining vs backward chaining -- here's how to actually pick"
     },
     {
-      "topic": "how to use proximal vs distal stabilization strategies in OT treatment",
-      "hook": "OT students: proximal vs distal stabilization -- here's how to actually apply it in treatment"
+      "topic": "how to use pain precautions to modify an OT session without losing the occupation",
+      "hook": "OT tip: how to work around a client's pain without ditching the occupation"
     },
     {
-      "topic": "how to use a strengths-based approach when writing OT goals -- starting from what a client CAN do",
-      "hook": "OT students: here's how to write goals from your client's strengths, not their deficits"
+      "topic": "how to identify and use a client's best time of day to schedule or structure OT intervention",
+      "hook": "OT tip: scheduling intervention at the right time of day can make or break a session"
     },
     {
-      "topic": "how to set up your treatment space to support client success before the session even starts",
-      "hook": "OT tip: your environment setup is part of your intervention -- here's how to do it intentionally"
+      "topic": "how to use neurodevelopmental sequencing to grade posture and movement during ADL training in OT",
+      "hook": "OT students: here's how developmental movement sequences can make your ADL training way more effective"
     }
   ],
   "underperformers": [
     {
-      "topic": "how to use clinical observation to identify a client's dominant hand and why it matters in OT",
-      "hook": "OT students: here's how to spot hand dominance without just asking -- and why it changes your whole treatment plan"
-    },
-    {
-      "topic": "how to recognize and use a client's values and roles to drive OT intervention",
-      "hook": "OT students: using a client's roles and values to actually drive your intervention plan"
-    },
-    {
-      "topic": "how to use errorless learning vs. error-based learning in OT -- and when to pick each",
-      "hook": "OT students: errorless vs. error-based learning -- here's how to actually pick"
+      "topic": "how to use activity demands to match a task to a client's current capacity in OT",
+      "hook": "OT students: activity demands tell you if a task is actually appropriate for your client right now"
     },
     {
       "topic": "how to grade your verbal cueing during an OT session -- and why it matters",
       "hook": "OT students: the type of cue you give changes everything about your session"
+    },
+    {
+      "topic": "how to use leisure and play as legitimate OT intervention -- and how to defend it clinically",
+      "hook": "OT students: leisure IS a valid occupation -- here's how to use it in treatment and back it up clinically"
+    },
+    {
+      "topic": "how to use environmental modifications as an OT intervention -- and how to document them as skilled",
+      "hook": "OT students: environmental mods are a real intervention -- here's how to use AND document them as skilled"
     },
     {
       "topic": "how to recognize and document a change in a client's functional status in OT",
