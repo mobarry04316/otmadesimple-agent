@@ -1,48 +1,58 @@
 {
-  "generated_at": "2026-10-12T15:11:14.597945Z",
-  "posts_analyzed": 41,
+  "generated_at": "2026-10-19T15:24:32.702144Z",
+  "posts_analyzed": 62,
   "top_performers": [
     {
-      "topic": "how to identify and address caregiver burden as part of OT intervention",
-      "hook": "OT students: caregiver burden is part of your client's occupational picture -- here's how to spot and address it"
+      "topic": "how to use edema management as a skilled OT intervention -- what it includes, how to grade it, and how to document it",
+      "hook": "OT students: edema management is a skilled OT intervention -- here's what that actually looks like in practice",
+      "stats": "1865 views, 34 saves, 25 follows, 2 shares"
     },
     {
-      "topic": "how to use backward chaining vs forward chaining to teach ADL tasks in OT",
-      "hook": "OT students: forward chaining vs backward chaining -- here's how to actually pick"
-    },
-    {
-      "topic": "how to use pain precautions to modify an OT session without losing the occupation",
-      "hook": "OT tip: how to work around a client's pain without ditching the occupation"
-    },
-    {
-      "topic": "how to identify and use a client's best time of day to schedule or structure OT intervention",
-      "hook": "OT tip: scheduling intervention at the right time of day can make or break a session"
+      "topic": "how to use narrative reasoning in OT -- understanding your client's story to guide intervention",
+      "hook": "OT students: narrative reasoning is one of the most powerful clinical tools you have -- here's how to actually use it",
+      "stats": "557 views, 9 saves, 9 follows, 1 shares"
     },
     {
       "topic": "how to use neurodevelopmental sequencing to grade posture and movement during ADL training in OT",
-      "hook": "OT students: here's how developmental movement sequences can make your ADL training way more effective"
+      "hook": "OT students: here's how developmental movement sequences can make your ADL training way more effective",
+      "stats": "1451 views, 40 saves, 14 follows, 2 shares"
+    },
+    {
+      "topic": "how to use muscle tone observations to inform OT intervention -- what high and low tone actually look like in a session",
+      "hook": "OT students: high tone vs. low tone -- here's what it actually looks like in your session and what to do about it",
+      "stats": "2336 views, 49 saves, 26 follows, 3 shares"
+    },
+    {
+      "topic": "how to use proprioceptive and tactile input to prepare a client's upper extremity for ADL tasks in OT -- what it is, why it works, and how to grade it",
+      "hook": "OT tip: prep your client's arm BEFORE the ADL task -- proprioceptive and tactile input can change everything about their performance",
+      "stats": "1969 views, 49 saves, 17 follows"
     }
   ],
   "underperformers": [
     {
-      "topic": "how to use activity demands to match a task to a client's current capacity in OT",
-      "hook": "OT students: activity demands tell you if a task is actually appropriate for your client right now"
+      "topic": "how to recognize and document a change in a client's functional status in OT",
+      "hook": "OT students: here's how to recognize AND document a functional status change so your notes actually show progress",
+      "stats": "421 views, 1 saves"
     },
     {
-      "topic": "how to grade your verbal cueing during an OT session -- and why it matters",
-      "hook": "OT students: the type of cue you give changes everything about your session"
+      "topic": "how to use clinical observation to identify a client's dominant hand and why it matters in OT",
+      "hook": "OT students: here's how to spot hand dominance without just asking -- and why it changes your whole treatment plan",
+      "stats": "657 views, 1 follows"
     },
     {
-      "topic": "how to use leisure and play as legitimate OT intervention -- and how to defend it clinically",
-      "hook": "OT students: leisure IS a valid occupation -- here's how to use it in treatment and back it up clinically"
+      "topic": "how to recognize and use a client's values and roles to drive OT intervention",
+      "hook": "OT students: using a client's roles and values to actually drive your intervention plan",
+      "stats": "799 views, 2 saves, 1 follows"
+    },
+    {
+      "topic": "POV: you're on fieldwork and you have no idea what to say to fill the silence during a session",
+      "hook": "OT students: the awkward silence in a session is more useful than you think",
+      "stats": "467 views"
     },
     {
       "topic": "how to use environmental modifications as an OT intervention -- and how to document them as skilled",
-      "hook": "OT students: environmental mods are a real intervention -- here's how to use AND document them as skilled"
-    },
-    {
-      "topic": "how to recognize and document a change in a client's functional status in OT",
-      "hook": "OT students: here's how to recognize AND document a functional status change so your notes actually show progress"
+      "hook": "OT students: environmental mods are a real intervention -- here's how to use AND document them as skilled",
+      "stats": "954 views, 1 follows"
     }
   ]
 }
