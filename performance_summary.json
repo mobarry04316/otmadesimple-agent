@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:54:38.022606Z",
-  "posts_analyzed": 78,
+  "generated_at": "2026-11-02T22:56:39.549910Z",
+  "posts_analyzed": 81,
   "top_performers": [
     {
       "topic": "how to use edema management as a skilled OT intervention -- what it includes, how to grade it, and how to document it",
@@ -23,9 +23,9 @@
       "stats": "564 views, 9 saves, 9 follows, 1 shares"
     },
     {
-      "topic": "how to use manual muscle testing (MMT) findings to actually inform your OT intervention -- not just fill in the eval",
-      "hook": "OT students: here's how to take your MMT results off the eval form and into your actual treatment plan",
-      "stats": "2836 views, 65 saves, 27 follows, 3 shares"
+      "topic": "how to do a functional upper extremity screen during an acute care OT evaluation -- what to look for and how to move through it",
+      "hook": "New grad OT: step-by-step through a functional UE screen in acute care",
+      "stats": "393 views, 7 saves, 7 follows"
     }
   ],
   "underperformers": [
@@ -35,19 +35,19 @@
       "stats": "421 views, 1 saves"
     },
     {
-      "topic": "how to use clinical observation to identify a client's dominant hand and why it matters in OT",
-      "hook": "OT students: here's how to spot hand dominance without just asking -- and why it changes your whole treatment plan",
-      "stats": "657 views, 1 follows"
-    },
-    {
       "topic": "how to recognize and use a client's values and roles to drive OT intervention",
       "hook": "OT students: using a client's roles and values to actually drive your intervention plan",
       "stats": "799 views, 2 saves, 1 follows"
     },
     {
+      "topic": "what to do when a caregiver insists on doing everything for your client during a home health OT session",
+      "hook": "OT tip: the biggest barrier in home health is sometimes standing right next to your client",
+      "stats": "1250 views, 2 saves, 2 follows"
+    },
+    {
       "topic": "POV: you're on fieldwork and you have no idea what to say to fill the silence during a session",
       "hook": "OT students: the awkward silence in a session is more useful than you think",
-      "stats": "467 views"
+      "stats": "472 views"
     },
     {
       "topic": "how to use environmental modifications as an OT intervention -- and how to document them as skilled",
