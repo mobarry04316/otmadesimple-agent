@@ -3333,54 +3333,54 @@
     "posted_at": "2026-10-20T13:30:50.326757Z",
     "analytics": {
       "impressions": 0,
-      "reach": 2949,
-      "likes": 50,
+      "reach": 3269,
+      "likes": 54,
       "comments": 0,
       "shares": 0,
-      "saves": 8,
+      "saves": 9,
       "clicks": 0,
-      "views": 3441,
-      "follows": 10,
+      "views": 3787,
+      "follows": 11,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 29188000,
-      "igReelsAvgWatchTime": 8570,
+      "igReelsVideoViewTotalTime": 31775000,
+      "igReelsAvgWatchTime": 8580,
       "reelsSkipRate": 0,
-      "completionRate": 0.289,
+      "completionRate": 0.2912,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "search": 0.001,
+        "personalProfile": 0.005,
+        "search": 0.002,
         "sound": 0,
         "follow": 0,
-        "forYou": 0.994,
-        "other": 0.001,
-        "personalProfile": 0.004
+        "forYou": 0.991,
+        "other": 0.002
       },
       "audienceTypes": {
-        "nonFollower": 0.96,
-        "returnViewer": 0.73,
         "follower": 0.04,
-        "newViewer": 0.27
+        "newViewer": 0.27,
+        "nonFollower": 0.96,
+        "returnViewer": 0.73
       },
       "audienceCountries": {
-        "US": 0.915,
-        "GB": 0.058,
-        "DE": 0.009,
+        "US": 0.918,
+        "GB": 0.055,
+        "DE": 0.008,
         "CA": 0.004,
-        "SE": 0.001,
-        "BR": 0.001,
-        "IT": 0.001,
-        "PR": 0.001,
         "IE": 0.001,
+        "SE": 0.001,
         "AT": 0.001,
-        "other": 0.008
+        "BR": 0.001,
+        "PR": 0.001,
+        "IT": 0.001,
+        "other": 0.009
       },
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T16:16:03Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T02:47:28Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7698741802366422286?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 1.97
+      "engagementRate": 1.93
     }
   },
   {
@@ -3391,7 +3391,7 @@
     "posted_at": "2026-10-20T18:23:16.883808Z",
     "analytics": {
       "impressions": 0,
-      "reach": 234,
+      "reach": 235,
       "likes": 3,
       "comments": 0,
       "shares": 0,
@@ -3401,30 +3401,30 @@
       "follows": 0,
       "reposts": 0,
       "igReelsVideoViewTotalTime": 1223000,
-      "igReelsAvgWatchTime": 4560,
+      "igReelsAvgWatchTime": 4550,
       "reelsSkipRate": 0,
-      "completionRate": 0.1119,
+      "completionRate": 0.1115,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "forYou": 0.914,
         "other": 0.004,
-        "personalProfile": 0.067,
+        "personalProfile": 0.071,
         "search": 0.004,
         "sound": 0,
-        "follow": 0.011
+        "follow": 0.011,
+        "forYou": 0.91
       },
       "audienceTypes": {
-        "nonFollower": 0.97,
-        "returnViewer": 0.33,
         "follower": 0.03,
-        "newViewer": 0.67
+        "newViewer": 0.67,
+        "nonFollower": 0.97,
+        "returnViewer": 0.33
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T22:32:23Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T09:31:49Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7698817006665010445?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
       "engagementRate": 1.28
     }
@@ -3443,34 +3443,34 @@
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 181,
+      "views": 182,
       "follows": 0,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 1018000,
-      "igReelsAvgWatchTime": 5560,
+      "igReelsVideoViewTotalTime": 1024000,
+      "igReelsAvgWatchTime": 5540,
       "reelsSkipRate": 0,
-      "completionRate": 0.0437,
+      "completionRate": 0.0432,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+        "personalProfile": 0.124,
+        "search": 0,
         "sound": 0,
         "follow": 0,
-        "forYou": 0.885,
-        "other": 0,
-        "personalProfile": 0.115,
-        "search": 0
+        "forYou": 0.876,
+        "other": 0
       },
       "audienceTypes": {
-        "returnViewer": 0.3,
-        "follower": 0.05,
-        "newViewer": 0.7,
-        "nonFollower": 0.95
+        "follower": 0.06,
+        "newViewer": 0.69,
+        "nonFollower": 0.94,
+        "returnViewer": 0.31
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-01T03:54:05Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T16:15:50Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7698892560139390222?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
       "engagementRate": 1.95
     }
@@ -3483,42 +3483,42 @@
     "posted_at": "2026-10-21T13:30:42.589301Z",
     "analytics": {
       "impressions": 0,
-      "reach": 484,
+      "reach": 509,
       "likes": 13,
       "comments": 0,
       "shares": 0,
       "saves": 4,
       "clicks": 0,
-      "views": 565,
+      "views": 566,
       "follows": 3,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 4144000,
-      "igReelsAvgWatchTime": 7280,
+      "igReelsVideoViewTotalTime": 4188000,
+      "igReelsAvgWatchTime": 7320,
       "reelsSkipRate": 0,
-      "completionRate": 0.0914,
+      "completionRate": 0.0927,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "follow": 0,
-        "forYou": 0.935,
+        "forYou": 0.93,
         "other": 0.014,
-        "personalProfile": 0.051,
+        "personalProfile": 0.056,
         "search": 0,
-        "sound": 0
+        "sound": 0,
+        "follow": 0
       },
       "audienceTypes": {
-        "follower": 0.06,
         "newViewer": 0.38,
         "nonFollower": 0.94,
-        "returnViewer": 0.62
+        "returnViewer": 0.62,
+        "follower": 0.06
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T16:16:03Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T02:47:28Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7699112943912258830?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 3.51
+      "engagementRate": 3.34
     }
   },
   {
@@ -3539,30 +3539,30 @@
       "follows": 2,
       "reposts": 0,
       "igReelsVideoViewTotalTime": 3556000,
-      "igReelsAvgWatchTime": 6150,
+      "igReelsAvgWatchTime": 6130,
       "reelsSkipRate": 0,
-      "completionRate": 0.1713,
+      "completionRate": 0.1707,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "follow": 0.003,
-        "forYou": 0.943,
         "other": 0,
-        "personalProfile": 0.052,
+        "personalProfile": 0.055,
         "search": 0.002,
-        "sound": 0
+        "sound": 0,
+        "follow": 0.003,
+        "forYou": 0.94
       },
       "audienceTypes": {
-        "follower": 0.03,
-        "newViewer": 0.69,
         "nonFollower": 0.97,
-        "returnViewer": 0.31
+        "returnViewer": 0.31,
+        "follower": 0.03,
+        "newViewer": 0.69
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T22:32:23Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T09:31:49Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7699187935026924813?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
       "engagementRate": 0.97
     }
@@ -3575,42 +3575,42 @@
     "posted_at": "2026-10-21T23:14:57.880912Z",
     "analytics": {
       "impressions": 0,
-      "reach": 493,
+      "reach": 505,
       "likes": 7,
       "comments": 0,
       "shares": 0,
       "saves": 1,
       "clicks": 0,
-      "views": 555,
+      "views": 559,
       "follows": 3,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 3673000,
-      "igReelsAvgWatchTime": 6540,
+      "igReelsVideoViewTotalTime": 4442000,
+      "igReelsAvgWatchTime": 7790,
       "reelsSkipRate": 0,
-      "completionRate": 0.1139,
+      "completionRate": 0.1123,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+        "forYou": 0.926,
+        "other": 0.004,
+        "personalProfile": 0.065,
         "search": 0,
         "sound": 0,
-        "follow": 0.005,
-        "forYou": 0.939,
-        "other": 0.004,
-        "personalProfile": 0.052
+        "follow": 0.005
       },
       "audienceTypes": {
-        "follower": 0.02,
-        "newViewer": 0.81,
         "nonFollower": 0.98,
-        "returnViewer": 0.19
+        "returnViewer": 0.2,
+        "follower": 0.02,
+        "newViewer": 0.8
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T01:08:18Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T12:53:55Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7699263523670592782?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 1.62
+      "engagementRate": 1.58
     }
   },
   {
@@ -3621,42 +3621,42 @@
     "posted_at": "2026-10-22T13:34:07.788869Z",
     "analytics": {
       "impressions": 0,
-      "reach": 58,
+      "reach": 63,
       "likes": 1,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 73,
+      "views": 78,
       "follows": 2,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 319000,
-      "igReelsAvgWatchTime": 4370,
+      "igReelsVideoViewTotalTime": 437000,
+      "igReelsAvgWatchTime": 5330,
       "reelsSkipRate": 0,
-      "completionRate": 0.0822,
+      "completionRate": 0.0976,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "follow": 0.027,
-        "forYou": 0.356,
-        "other": 0.014,
-        "personalProfile": 0.603,
+        "other": 0.012,
+        "personalProfile": 0.634,
         "search": 0,
-        "sound": 0
+        "sound": 0,
+        "follow": 0.037,
+        "forYou": 0.317
       },
       "audienceTypes": {
-        "follower": 0.17,
-        "newViewer": 0.62,
-        "nonFollower": 0.83,
-        "returnViewer": 0.38
+        "follower": 0.21,
+        "newViewer": 0.55,
+        "nonFollower": 0.79,
+        "returnViewer": 0.45
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T13:13:49Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-08T23:25:29Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7699484913816456462?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 1.72
+      "engagementRate": 1.59
     }
   },
   {
@@ -3667,42 +3667,42 @@
     "posted_at": "2026-10-22T18:20:31.286385Z",
     "analytics": {
       "impressions": 0,
-      "reach": 332,
+      "reach": 354,
       "likes": 12,
       "comments": 0,
       "shares": 0,
       "saves": 7,
       "clicks": 0,
-      "views": 393,
+      "views": 396,
       "follows": 7,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 2648000,
-      "igReelsAvgWatchTime": 6760,
+      "igReelsVideoViewTotalTime": 2853000,
+      "igReelsAvgWatchTime": 7030,
       "reelsSkipRate": 0,
-      "completionRate": 0.0765,
+      "completionRate": 0.0887,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "search": 0.008,
+        "personalProfile": 0.128,
+        "search": 0.01,
         "sound": 0,
-        "follow": 0.013,
-        "forYou": 0.864,
-        "other": 0.013,
-        "personalProfile": 0.102
+        "follow": 0.012,
+        "forYou": 0.835,
+        "other": 0.015
       },
       "audienceTypes": {
-        "nonFollower": 0.96,
-        "returnViewer": 0.34,
-        "follower": 0.04,
-        "newViewer": 0.66
+        "follower": 0.05,
+        "newViewer": 0.65,
+        "nonFollower": 0.95,
+        "returnViewer": 0.35
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T16:16:03Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T02:47:28Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7699558731037609229?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 5.72
+      "engagementRate": 5.37
     }
   },
   {
@@ -3713,53 +3713,54 @@
     "posted_at": "2026-10-31T15:57:11.502757Z",
     "analytics": {
       "impressions": 0,
-      "reach": 1105,
-      "likes": 13,
+      "reach": 1168,
+      "likes": 14,
       "comments": 0,
       "shares": 0,
-      "saves": 2,
+      "saves": 3,
       "clicks": 0,
-      "views": 1250,
+      "views": 1304,
       "follows": 2,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 7561000,
-      "igReelsAvgWatchTime": 5940,
+      "igReelsVideoViewTotalTime": 7771000,
+      "igReelsAvgWatchTime": 5860,
       "reelsSkipRate": 0,
-      "completionRate": 0.1486,
+      "completionRate": 0.1494,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "follow": 0.001,
-        "forYou": 0.99,
-        "other": 0.002,
-        "personalProfile": 0.005,
         "search": 0.002,
         "sound": 0,
-        "directMessage": 0
+        "follow": 0.001,
+        "forYou": 0.987,
+        "other": 0.004,
+        "personalProfile": 0.006
       },
       "audienceTypes": {
-        "nonFollower": 0.97,
-        "returnViewer": 0.41,
-        "follower": 0.03,
-        "newViewer": 0.59
+        "nonFollower": 0.96,
+        "returnViewer": 0.45,
+        "follower": 0.04,
+        "newViewer": 0.55
       },
       "audienceCountries": {
-        "US": 0.905,
-        "GB": 0.083,
+        "US": 0.881,
+        "GB": 0.096,
         "BR": 0.005,
-        "CA": 0.002,
-        "MY": 0.001,
-        "EC": 0.001,
-        "JE": 0.001,
+        "DE": 0.004,
+        "CA": 0.003,
+        "IM": 0.002,
+        "DK": 0.001,
         "MX": 0.001,
-        "AT": 0.001
+        "MY": 0.001,
+        "PT": 0.001,
+        "other": 0.005
       },
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T22:32:23Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T19:38:27Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7702861494521793805?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 1.36
+      "engagementRate": 1.46
     }
   },
   {
@@ -3770,43 +3771,42 @@
     "posted_at": "2026-10-31T17:26:07.299267Z",
     "analytics": {
       "impressions": 0,
-      "reach": 257,
+      "reach": 286,
       "likes": 2,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 317,
+      "views": 326,
       "follows": 1,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 1983000,
-      "igReelsAvgWatchTime": 6200,
+      "igReelsVideoViewTotalTime": 2026000,
+      "igReelsAvgWatchTime": 6080,
       "reelsSkipRate": 0,
-      "completionRate": 0.1688,
+      "completionRate": 0.1712,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+        "other": 0.003,
+        "personalProfile": 0.024,
         "search": 0.003,
         "sound": 0,
-        "directMessage": 0,
-        "follow": 0.013,
-        "forYou": 0.968,
-        "other": 0,
-        "personalProfile": 0.016
+        "follow": 0.012,
+        "forYou": 0.958
       },
       "audienceTypes": {
         "follower": 0.02,
-        "newViewer": 0.51,
+        "newViewer": 0.45,
         "nonFollower": 0.98,
-        "returnViewer": 0.49
+        "returnViewer": 0.55
       },
       "audienceCountries": {},
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T22:32:23Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7702884441173101838?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 0.78
+      "engagementRate": 0.7
     }
   },
   {
@@ -3817,55 +3817,54 @@
     "posted_at": "2026-10-31T20:53:10.547334Z",
     "analytics": {
       "impressions": 0,
-      "reach": 1186,
-      "likes": 35,
+      "reach": 1802,
+      "likes": 39,
       "comments": 0,
       "shares": 0,
-      "saves": 8,
+      "saves": 11,
       "clicks": 0,
-      "views": 1651,
-      "follows": 5,
+      "views": 2117,
+      "follows": 8,
       "reposts": 0,
-      "igReelsVideoViewTotalTime": 14197000,
-      "igReelsAvgWatchTime": 8520,
+      "igReelsVideoViewTotalTime": 16777000,
+      "igReelsAvgWatchTime": 8220,
       "reelsSkipRate": 0,
-      "completionRate": 0.1938,
+      "completionRate": 0.1956,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-        "other": 0.002,
-        "personalProfile": 0.002,
-        "search": 0,
-        "sound": 0,
-        "directMessage": 0,
         "follow": 0,
-        "forYou": 0.996
+        "forYou": 0.993,
+        "other": 0.004,
+        "personalProfile": 0.003,
+        "search": 0,
+        "sound": 0
       },
       "audienceTypes": {
-        "follower": 0.06,
-        "newViewer": 0.28,
-        "nonFollower": 0.94,
-        "returnViewer": 0.72
+        "returnViewer": 0.77,
+        "follower": 0.05,
+        "newViewer": 0.23,
+        "nonFollower": 0.95
       },
       "audienceCountries": {
-        "US": 0.796,
-        "GB": 0.182,
-        "IE": 0.004,
-        "CA": 0.002,
-        "CH": 0.002,
-        "FR": 0.002,
+        "US": 0.777,
+        "GB": 0.184,
+        "DE": 0.006,
+        "CA": 0.003,
+        "SE": 0.002,
+        "IT": 0.002,
         "NL": 0.002,
-        "NO": 0.001,
-        "MX": 0.001,
-        "SE": 0.001,
-        "other": 0.007
+        "IE": 0.002,
+        "BE": 0.001,
+        "FR": 0.001,
+        "other": 0.02
       },
       "retentionCurve": {},
       "replays": 0,
-      "videoDurationSeconds": null,
-      "lastUpdated": "2026-11-02T22:32:23Z",
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-08T23:25:29Z",
       "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7702937790530555149?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-      "engagementRate": 3.63
+      "engagementRate": 2.77
     }
   },
   {
@@ -3874,7 +3873,46 @@
     "hook": "Fieldwork tip: AROM and PROM are not interchangeable -- and mixing them up on eval day matters",
     "caption": "knowing which one to measure first can completely change your clinical picture -- and your intervention plan \ud83d\udc99 what's a hand therapy eval moment where the AROM vs PROM difference actually changed what you decided to do next?\n\n#occupationaltherapy #otstudent #handtherapy #fieldwork #otfieldwork #clinicalreasoning #handrehab",
     "posted_at": "2026-11-01T01:40:02.524175Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 436,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saves": 3,
+      "clicks": 0,
+      "views": 498,
+      "follows": 1,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 3129000,
+      "igReelsAvgWatchTime": 6160,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1299,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "follow": 0.006,
+        "forYou": 0.966,
+        "other": 0.002,
+        "personalProfile": 0.026,
+        "search": 0,
+        "sound": 0,
+        "directMessage": 0
+      },
+      "audienceTypes": {
+        "nonFollower": 0.99,
+        "returnViewer": 0.28,
+        "follower": 0.01,
+        "newViewer": 0.72
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T02:47:28Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703011757731646733?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.52
+    }
   },
   {
     "post_id": "6ae780e9a5d998683b80ae31",
@@ -3882,7 +3920,45 @@
     "hook": "New grad OT: a family member just said 'but my mom did that at home -- why is this therapy?'",
     "caption": "nobody prepares you for the audience in the room -- but learning to explain your 'why' out loud is one of the most important skills you'll build as a new grad. what's the hardest question a family member has ever thrown at you mid-session?\n\n#occupationaltherapy #otstudent #newgradot #otfieldwork #otclinicalreasoning #othumor #otpov",
     "posted_at": "2026-11-01T18:12:02.971775Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 145,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 166,
+      "follows": 0,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 895000,
+      "igReelsAvgWatchTime": 5390,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1386,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "other": 0.024,
+        "personalProfile": 0.054,
+        "search": 0.006,
+        "sound": 0,
+        "follow": 0,
+        "forYou": 0.916
+      },
+      "audienceTypes": {
+        "returnViewer": 0.33,
+        "follower": 0.03,
+        "newViewer": 0.67,
+        "nonFollower": 0.97
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T19:38:27Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703267341081087246?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 0
+    }
   },
   {
     "post_id": "6ae7b0b1a461958ed07eabde",
@@ -3890,7 +3966,45 @@
     "hook": "OT tip: your mental health OT goals might be missing the point",
     "caption": "mental health OT is so skilled -- but it's easy to accidentally write goals that sound more like counseling than occupational therapy, especially early on \ud83e\udde0 what's one occupation-based goal you've written (or seen) that actually captured what mental health OT looks like in practice?\n\n#occupationaltherapy #otstudent #mentalhealthot #otgoals #otfieldwork #newgradot #otmentalhealth",
     "posted_at": "2026-11-01T21:35:55.508225Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 973,
+      "likes": 49,
+      "comments": 0,
+      "shares": 0,
+      "saves": 11,
+      "clicks": 0,
+      "views": 1098,
+      "follows": 11,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 8593000,
+      "igReelsAvgWatchTime": 7570,
+      "reelsSkipRate": 0,
+      "completionRate": 0.178,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "search": 0.001,
+        "sound": 0,
+        "follow": 0,
+        "forYou": 0.98,
+        "other": 0.009,
+        "personalProfile": 0.01
+      },
+      "audienceTypes": {
+        "follower": 0.09,
+        "newViewer": 0.3,
+        "nonFollower": 0.91,
+        "returnViewer": 0.7
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703319840420908302?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 6.17
+    }
   },
   {
     "post_id": "6ae7ee53eabf1fb8a49bb62f",
@@ -3898,7 +4012,46 @@
     "hook": "struggling to grade bilateral coordination tasks in pediatric OT?",
     "caption": "bilateral coordination shows up in so much more than cutting and buttoning -- and knowing what to actually watch for changes how you grade the activity in the moment \ud83d\udc99 what's a bilateral task that surprised you by being harder for a kid than you expected?\n\n#occupationaltherapy #otstudent #pediatricot #bilateralcoordination #otfieldwork #otpediatrics #schoolbasedot",
     "posted_at": "2026-11-02T01:58:55.030088Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 571,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 6,
+      "clicks": 0,
+      "views": 636,
+      "follows": 5,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 2345000,
+      "igReelsAvgWatchTime": 3660,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0671,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "other": 0.008,
+        "personalProfile": 0.02,
+        "search": 0.003,
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0,
+        "forYou": 0.969
+      },
+      "audienceTypes": {
+        "follower": 0.01,
+        "newViewer": 0.84,
+        "nonFollower": 0.99,
+        "returnViewer": 0.16
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-08T23:25:29Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703387686593121550?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.98
+    }
   },
   {
     "post_id": "6ae9080bb092358a041e5f0f",
@@ -3906,7 +4059,46 @@
     "hook": "OT students: a step-by-step for observing sensory processing during a pediatric OT eval",
     "caption": "sensory observation is happening before you've even said hello -- knowing what to look for changes your whole eval \ud83d\udc99 what's one behavior you almost missed during a pediatric eval that turned out to be a big sensory clue?\n\n#occupationaltherapy #otstudent #pediatricot #sensoryprocessing #oteval #fieldwork #otpediatrics",
     "posted_at": "2026-11-02T22:00:58.599054Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 646,
+      "likes": 18,
+      "comments": 0,
+      "shares": 0,
+      "saves": 9,
+      "clicks": 0,
+      "views": 718,
+      "follows": 5,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 6375000,
+      "igReelsAvgWatchTime": 8750,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1536,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "other": 0.01,
+        "personalProfile": 0.023,
+        "search": 0.001,
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0,
+        "forYou": 0.966
+      },
+      "audienceTypes": {
+        "follower": 0.05,
+        "newViewer": 0.31,
+        "nonFollower": 0.95,
+        "returnViewer": 0.69
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T19:38:27Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703697456806087950?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 4.18
+    }
   },
   {
     "post_id": "6ae928af3264bb76738604c5",
@@ -3914,7 +4106,54 @@
     "hook": "New grad OT: your pediatric client just refused every single activity you planned",
     "caption": "the plan falling apart is not failure -- it's the eval continuing \ud83e\udde9 what's one thing a kid did that completely changed how you understood their sensory needs?\n\n#occupationaltherapy #otstudent #pediatricot #sensoryprocessing #fieldwork #otschool #schoolbasedot",
     "posted_at": "2026-11-03T00:20:08.893366Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 4286,
+      "likes": 55,
+      "comments": 0,
+      "shares": 0,
+      "saves": 8,
+      "clicks": 0,
+      "views": 5083,
+      "follows": 11,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 31033000,
+      "igReelsAvgWatchTime": 6000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.2077,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "follow": 0.001,
+        "forYou": 0.993,
+        "other": 0.002,
+        "personalProfile": 0.004,
+        "search": 0,
+        "sound": 0,
+        "directMessage": 0
+      },
+      "audienceTypes": {
+        "returnViewer": 0.41,
+        "follower": 0.01,
+        "newViewer": 0.59,
+        "nonFollower": 0.99
+      },
+      "audienceCountries": {
+        "US": 0.975,
+        "GB": 0.016,
+        "CA": 0.004,
+        "BR": 0.001,
+        "MX": 0.001,
+        "PR": 0.001,
+        "other": 0.002
+      },
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703733270038498574?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 1.47
+    }
   },
   {
     "post_id": "6ae9593ba3a6c5e4191fb75f",
@@ -3922,7 +4161,58 @@
     "hook": "OT tip: things I wish I knew before my first neuro rehab caseload",
     "caption": "neuro rehab humbled me in ways I didn't expect -- the clinical complexity is real, but so is the emotional weight of watching someone relearn who they are \ud83e\udde0 what's one thing you wish someone had told you before your first neuro rehab client?\n\n#occupationaltherapy #otstudent #otfieldwork #neurorehab #otclinicalreasoning #newgradot #otlife",
     "posted_at": "2026-11-03T03:47:17.369446Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 1097,
+      "likes": 26,
+      "comments": 0,
+      "shares": 1,
+      "saves": 4,
+      "clicks": 0,
+      "views": 1194,
+      "follows": 1,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 6706000,
+      "igReelsAvgWatchTime": 5520,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0725,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0.001,
+        "forYou": 0.981,
+        "other": 0.007,
+        "personalProfile": 0.009,
+        "search": 0.002
+      },
+      "audienceTypes": {
+        "newViewer": 0.6,
+        "nonFollower": 0.93,
+        "returnViewer": 0.4,
+        "follower": 0.07
+      },
+      "audienceCountries": {
+        "GB": 0.573,
+        "US": 0.357,
+        "IT": 0.018,
+        "IE": 0.015,
+        "DE": 0.005,
+        "BR": 0.002,
+        "EG": 0.002,
+        "FR": 0.002,
+        "KE": 0.002,
+        "BG": 0.002,
+        "other": 0.022
+      },
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7703786667290692877?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.83
+    }
   },
   {
     "post_id": "6aea3bf7c779c6b46a00cd3b",
@@ -3930,7 +4220,46 @@
     "hook": "Fieldwork tip: your supervisor isn't expecting you to know what to do -- they're watching how you think",
     "caption": "fieldwork isn't a test of how much you've memorized -- it's a chance to practice thinking like a clinician while someone skilled is still in the room with you \ud83e\udde0 what's a moment on fieldwork where saying your reasoning out loud actually changed what you decided to do?\n\n#occupationaltherapy #otstudent #fieldwork #otfieldwork #clinicalreasoning #otschool #fieldworktips",
     "posted_at": "2026-11-03T19:54:41.788997Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 251,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saves": 1,
+      "clicks": 0,
+      "views": 281,
+      "follows": 1,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 1383000,
+      "igReelsAvgWatchTime": 4840,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0839,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "forYou": 0.945,
+        "other": 0.01,
+        "personalProfile": 0.035,
+        "search": 0.003,
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0.007
+      },
+      "audienceTypes": {
+        "follower": 0.03,
+        "newViewer": 0.77,
+        "nonFollower": 0.97,
+        "returnViewer": 0.23
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704035900631698702?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.39
+    }
   },
   {
     "post_id": "6aea645f37e1d1661e7eb2f4",
@@ -3938,7 +4267,46 @@
     "hook": "are you writing OT goals for a skilled service or a maintenance program?",
     "caption": "mixing these two up can cost your client their OT coverage -- knowing the difference protects them and your documentation \ud83d\udccb what's one situation where you weren't sure if a client still qualified for skilled OT or had crossed into maintenance?\n\n#occupationaltherapy #otstudent #otdocumentation #skilledtherapy #snfot #medicaredocumentation #otclinicalreasoning",
     "posted_at": "2026-11-03T22:47:04.939672Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 107,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 110,
+      "follows": 0,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 264000,
+      "igReelsAvgWatchTime": 2340,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0177,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0,
+        "forYou": 0.894,
+        "other": 0.018,
+        "personalProfile": 0.088,
+        "search": 0
+      },
+      "audienceTypes": {
+        "newViewer": 0.77,
+        "nonFollower": 0.96,
+        "returnViewer": 0.23,
+        "follower": 0.04
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704080384920734989?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 0
+    }
   },
   {
     "post_id": "6aea9d62713eda77554bf8a1",
@@ -3946,7 +4314,58 @@
     "hook": "ever had your fieldwork supervisor say 'you've got this one' and suddenly forget every ADL you've ever learned?",
     "caption": "fieldwork is where the textbook meets real life and they do not always shake hands gracefully \ud83d\ude05 what's the most 'deer in headlights' moment you've had on a fieldwork placement?\n\n#occupationaltherapy #otstudent #fieldwork #otfieldwork #adltraining #othumor #newgradot",
     "posted_at": "2026-11-04T02:50:20.341230Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 1034,
+      "likes": 18,
+      "comments": 1,
+      "shares": 0,
+      "saves": 3,
+      "clicks": 0,
+      "views": 1139,
+      "follows": 3,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 7846000,
+      "igReelsAvgWatchTime": 6790,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1688,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "personalProfile": 0.009,
+        "search": 0.001,
+        "sound": 0,
+        "directMessage": 0.001,
+        "follow": 0,
+        "forYou": 0.98,
+        "other": 0.009
+      },
+      "audienceTypes": {
+        "newViewer": 0.26,
+        "nonFollower": 0.92,
+        "returnViewer": 0.74,
+        "follower": 0.08
+      },
+      "audienceCountries": {
+        "US": 0.918,
+        "GB": 0.065,
+        "PT": 0.003,
+        "AU": 0.002,
+        "PR": 0.001,
+        "EE": 0.001,
+        "MX": 0.001,
+        "IR": 0.001,
+        "ZA": 0.001,
+        "DE": 0.001,
+        "other": 0.006
+      },
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704143088817573133?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.13
+    }
   },
   {
     "post_id": "6aeb90e268959db0d5fcb607",
@@ -3954,7 +4373,46 @@
     "hook": "OT students: this NBCOT study mistake is costing you points",
     "caption": "NBCOT tests OT thinking, not medical knowledge -- and that shift in how you study actually makes a huge difference \ud83d\udcda what's one diagnosis you had to reframe around function before it finally clicked for your exam prep?\n\n#occupationaltherapy #otstudent #nbcot #nbcotprep #otboards #otstudentlife #otexam",
     "posted_at": "2026-11-04T20:09:17.962571Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 530,
+      "likes": 10,
+      "comments": 0,
+      "shares": 0,
+      "saves": 8,
+      "clicks": 0,
+      "views": 588,
+      "follows": 2,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 3032000,
+      "igReelsAvgWatchTime": 4990,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0872,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0.003,
+        "forYou": 0.98,
+        "other": 0.005,
+        "personalProfile": 0.012,
+        "search": 0
+      },
+      "audienceTypes": {
+        "follower": 0.01,
+        "newViewer": 0.7,
+        "nonFollower": 0.99,
+        "returnViewer": 0.3
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704410757957520654?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 3.4
+    }
   },
   {
     "post_id": "6aebba405165be585da01066",
@@ -3962,7 +4420,46 @@
     "hook": "doing an OT eval in skilled nursing and not sure what to watch in the UE?",
     "caption": "SNF evals move fast and it's easy to default to ROM numbers -- but watching the UE actually function during a task tells you so much more about what's limiting independence. what's one compensation pattern you caught during an SNF eval that the chart never mentioned?\n\n#occupationaltherapy #otstudent #skillednursingfacility #snfot #oteval #upperlimb #otfieldwork",
     "posted_at": "2026-11-04T23:05:47.956091Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 131,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 2,
+      "clicks": 0,
+      "views": 144,
+      "follows": 0,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 675000,
+      "igReelsAvgWatchTime": 4590,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0204,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0,
+        "forYou": 0.939,
+        "other": 0.02,
+        "personalProfile": 0.034,
+        "search": 0.007
+      },
+      "audienceTypes": {
+        "follower": 0.01,
+        "newViewer": 0.81,
+        "nonFollower": 0.99,
+        "returnViewer": 0.19
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704456297437089038?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 2.29
+    }
   },
   {
     "post_id": "6aebf0c4318ea293a845bf85",
@@ -3970,7 +4467,46 @@
     "hook": "New grad OT: step-by-step through your very first home health OT visit",
     "caption": "home health evals feel different because you're on their turf, not yours -- and that shift changes everything about how you gather information and build trust with a client. what's the first thing you noticed during a home visit that you never would have caught in a clinic or hospital setting?\n\n#occupationaltherapy #otstudent #homehealth #homehealthot #otfieldwork #newgradot #otclinicalreasoning",
     "posted_at": "2026-11-05T02:58:23.713938Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 104,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 114,
+      "follows": 0,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 451000,
+      "igReelsAvgWatchTime": 3890,
+      "reelsSkipRate": 0,
+      "completionRate": 0.0431,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "other": 0.034,
+        "personalProfile": 0.017,
+        "search": 0,
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0,
+        "forYou": 0.949
+      },
+      "audienceTypes": {
+        "follower": 0.03,
+        "newViewer": 0.82,
+        "nonFollower": 0.97,
+        "returnViewer": 0.18
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704516300801887501?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 0.96
+    }
   },
   {
     "post_id": "6aece5c753699528bcabe5da",
@@ -3978,7 +4514,46 @@
     "hook": "Fieldwork tip: your student just flopped under the table and won't come out -- what do you do?",
     "caption": "the session falling apart is not a failure -- it's your client telling you exactly what they need \ud83e\uddd2 what's one trigger you almost missed that you now catch right away with kids who shut down?\n\n#occupationaltherapy #otstudent #pediatricot #fieldwork #sensoryprocessing #schoolbasedot #otfieldwork",
     "posted_at": "2026-11-05T20:23:47.431263Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 792,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 1,
+      "clicks": 0,
+      "views": 882,
+      "follows": 0,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 6870000,
+      "igReelsAvgWatchTime": 7720,
+      "reelsSkipRate": 0,
+      "completionRate": 0.218,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "forYou": 0.988,
+        "other": 0.002,
+        "personalProfile": 0.007,
+        "search": 0,
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0.003
+      },
+      "audienceTypes": {
+        "returnViewer": 0.13,
+        "follower": 0.01,
+        "newViewer": 0.87,
+        "nonFollower": 0.99
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704785687865740557?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 0.88
+    }
   },
   {
     "post_id": "6aed0c99d88669c9db9b24f7",
@@ -3986,7 +4561,46 @@
     "hook": "OT tip: low vision taught me things no fieldwork placement prepared me for",
     "caption": "low vision is one of those settings that looks quiet from the outside and then completely reframes how you think about independence \ud83d\udc41\ufe0f what's something about low vision OT that surprised you once you were actually in it?\n\n#occupationaltherapy #otstudent #lowvision #lowvisionrehab #otfieldwork #newgradot #otmadesimple",
     "posted_at": "2026-11-05T23:09:24.688680Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 865,
+      "likes": 28,
+      "comments": 0,
+      "shares": 1,
+      "saves": 7,
+      "clicks": 0,
+      "views": 973,
+      "follows": 5,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 7300000,
+      "igReelsAvgWatchTime": 7370,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1524,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "forYou": 0.968,
+        "other": 0.012,
+        "personalProfile": 0.012,
+        "search": 0.005,
+        "sound": 0,
+        "directMessage": 0.003,
+        "follow": 0
+      },
+      "audienceTypes": {
+        "nonFollower": 0.92,
+        "returnViewer": 0.74,
+        "follower": 0.08,
+        "newViewer": 0.26
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704828378716605710?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 4.16
+    }
   },
   {
     "post_id": "6aed422d46c1a37f19f41a18",
@@ -3994,7 +4608,46 @@
     "hook": "OT students: this NBCOT myth might be what's holding your score back",
     "caption": "the exam isn't asking what the diagnosis is -- it's asking what the person can't do and what OT does about it \ud83e\udde0 what's one question type on NBCOT that finally made sense once you started thinking occupation-first instead of diagnosis-first?\n\n#occupationaltherapy #otstudent #nbcot #nbcotprep #otboards #otschool #clinicalreasoning",
     "posted_at": "2026-11-06T02:57:59.855674Z",
-    "analytics": null
+    "analytics": {
+      "impressions": 0,
+      "reach": 126,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 133,
+      "follows": 1,
+      "reposts": 0,
+      "igReelsVideoViewTotalTime": 652000,
+      "igReelsAvgWatchTime": 4760,
+      "reelsSkipRate": 0,
+      "completionRate": 0.1022,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+        "sound": 0,
+        "directMessage": 0,
+        "follow": 0.007,
+        "forYou": 0.898,
+        "other": 0.029,
+        "personalProfile": 0.066,
+        "search": 0
+      },
+      "audienceTypes": {
+        "follower": 0.04,
+        "newViewer": 0.77,
+        "nonFollower": 0.96,
+        "returnViewer": 0.23
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "videoDurationSeconds": 0,
+      "lastUpdated": "2026-11-09T23:01:18Z",
+      "platformPostUrl": "https://www.tiktok.com/@otmadesimple/video/7704887263703895310?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+      "engagementRate": 0.79
+    }
   },
   {
     "post_id": "6aee2e537fc0771363701da7",
